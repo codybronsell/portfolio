@@ -125,7 +125,7 @@ section {
 }
 .bg-4 {
   background: rgb(9, 121, 113);
-  background: linear-gradient(90deg, rgba(9, 121, 113, 1) 42%, rgba(46, 143, 160, 1) 67%, rgba(0, 212, 255, 1) 100%);
+  background: url('../img/login-screen.png') no-repeat center center / cover;
 }
 .bg-5 {
   background: rgb(63, 94, 251);
